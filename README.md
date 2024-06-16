@@ -10,7 +10,7 @@ java CreateAccount.java
 this will run the CreateAccount in the terminal and return the result
 
 # RUN GUI
-## javac CreationAccountGUI.java // this will complie the GUI creation of the account. 
+## cd to GUI and run javac CreationAccountGUI.java // this will complie the GUI creation of the account. 
 ## java CreateAccountGUI // this will display the  GUI created by CreateAccount    
 
 # thank you
